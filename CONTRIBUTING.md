@@ -14,13 +14,13 @@ the table structure is:
 
 In particular, "type(s) of org" are: `academic`, `diversity and inclusion`, `hardware-focus`, `software-focus`, or `software dev team`.
 
-For example, 
+For example,
 
 ```markdown
-| organization | type(s) of org | website | application required? | short description |
-| --- | --- | --- | --- | --- |
+| organization | type(s) of org | application required? | short description |
+| --- | --- | --- | --- |
 ...
-| ACM at UCLA | software-focus | https://uclaacm.com | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
+| [ACM at UCLA](https://uclaacm.com) | software-focus | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
 ```
 
 ### upcoming fall events
@@ -37,7 +37,7 @@ For example,
 | organization | event title | date and time (PT) | location | link and/or RSVP |
 | --- | --- | --- | --- | --- |
 ...
-| ACM at UCLA | ACM Fall General Meeting | Tue 09/27, 6:00-7:30 PM | in-person/hybrid | https://uclaacm.com/fallgm |
+| [ACM at UCLA](https://uclaacm.com) | ACM Fall General Meeting | Tue 09/27, 6:00-7:30 PM | in-person/hybrid | https://uclaacm.com/fallgm |
 ```
 
 ### adding yourself to your category

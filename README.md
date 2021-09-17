@@ -28,6 +28,10 @@ Then, feel free to browse the clubs by category:
 
 ## upcoming fall events
 
+| organization | event title | date and time (PT) | location | link and/or RSVP |
+| --- | --- | --- | --- | --- |
+| [ACM at UCLA](#acm-at-ucla) | ACM Fall General Meeting | Tue 09/27, 6:00-7:30 PM | in-person/hybrid | https://uclaacm.com/fallgm |
+
 ## Academic Orgs
 
 These clubs provide tutoring and review sessions that will help you succeed in the classroom.

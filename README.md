@@ -2,6 +2,8 @@
 
 This is a community-driven resource for all of the tech-related student organizations at UCLA! We wrote this document specifically for the [CS Welcome Day](https://www.cs.ucla.edu/cs-welcome-day/), though the goal of this document is to be continually updated throughout the year.
 
+[If you'd like, view this on a website instead.](https://uclaacm.github.io/cs-student-orgs/)
+
 ## I'm a student. How do I use this doc?
 
 Check out the [**tl;dr table**](#the-list-tldr) for an overview of tech clubs, or the [**upcoming fall events**](#upcoming-fall-events) to see general meetings and info sessions for clubs!
@@ -262,6 +264,8 @@ We prefer people with some web or programming experience, but it doesn’t need 
 ## Resources and Thanks
 
 This document was inspired by the [Welcome to UCLA CS - 2020](https://medium.com/techatucla/welcome-to-ucla-cs-2020-780f667d469c) article written by Katherine Chong, then the EVP of [ACM at UCLA](https://uclaacm.com). It was written for the 2020 CS Welcome Day.
+
+This document is the brainchild of Kendrake Tsui, the CS Advocacy Director for [UPE](https://upe.seas.ucla.edu/). [Matt Wang](https://matthewwang.me), the president of [ACM at UCLA](https://uclaacm.com), set up the technical details; Spurthi Rallapalli, the Student Relations Director and Lobbying Director for [SWE at UCLA](https://www.swe-ucla.com/), helped fill out a significant portion of the information.
 
 ## Licensing
 

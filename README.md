@@ -4,10 +4,29 @@ This is a community-driven resource for all of the tech-related student organiza
 
 ## I'm a student. How do I use this doc?
 
+Check out the [**tl;dr table**](#the-list-tldr) for an overview of tech clubs, or the [**upcoming fall events**](#upcoming-fall-events) to see general meetings and info sessions for clubs!
+
+Then, feel free to browse the clubs by category:
+
+* [academic orgs](#academic-orgs)
+* [diversity and inclusion orgs](#diversity-and-inclusion)
+* [education and outreach orgs](#education-and-outreach)
+* [hardware-specialized orgs](#hardware-specialized-orgs)
+* [software-specialized orgs](#software-specialized-orgs)
+* [software development teams](#software-development-teams)
+
 ## I'm a student leader. How can I add or update our organization to this doc?
+
+...
 
 
 ## the list, tl;dr
+
+| organization | type(s) of org | website | application required? | short description |
+| --- | --- | --- | --- | --- |
+| [ACM at UCLA](#acm-at-ucla) | software-focus | https://uclaacm.com | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
+
+## upcoming fall events
 
 ## Academic Orgs
 
@@ -94,7 +113,7 @@ Any UCLA student can join exploretech.la. All majors are welcome, and no prior e
 
 Connect with us on Facebook and Instagram @exploretech.la, and sign up for our mailing list to receive information about our info session and applications. You can also come meet us at our info session on Wednesday, October 7th @ 7:30–8:30 PM PDT on Zoom!
 
-## Electrical Engineering/ Hardware
+## Hardware-focused Orgs
 
 Tired of coding and computer screens or has hardware ever interested you? You should definitely check out these EE clubs!
 
@@ -130,7 +149,7 @@ We are beginner-friendly! We require no previous experience or application, and 
 
 We have a form on our website, or reaching out to our email, unmannedsystems.ucla@gmail.com are the fastest ways to join the organization
 
-## Software-Specialized Orgs
+## Software-Focused Orgs
 
 ### ACM at UCLA
 

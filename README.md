@@ -171,7 +171,9 @@ We have a form on our website, or reaching out to our email, unmannedsystems.ucl
 
 ### ACM Studio
 
-### Bruin Entrepreneurs
+### [AIRES](https://www.theaires.org/)
+
+### [Datares](https://datares.github.io/#/)
 
 ## Software Development Teams
 
@@ -188,11 +190,21 @@ UI/UX Design, JavaScript, Web Development, Photoshop, Lightroom, Sketch, Teamwor
 Yes, for some projects and all workshops. A couple projects require specific skill sets that are project-dependent.
 
 
-### Daily Bruin Online
+### [Daily Bruin Online](https://apply.uclastudentmedia.com/applications/)
 
-### LA Hacks
+[DB Online](https://apply.uclastudentmedia.com/applications/) explores the intersection between technology and society through various websites and projects. We build websites such as dailybruin.com, Bruinwalk, and The Stack.
 
-LA Hacks is one of Southern California’s biggest hackathons, bringing over 1000 students to Pauley Pavilion for 36 hours of innovation, creativity and execution. Such a large event is only possible through the efforts of a fantastic organizing team. This ranges from people working in Sponsorships, Finance, Hacker Experience, Dev and much more. This team grows to become your family for the entire year, going through ups and downs like you’ve never experienced before, all to climax into one hell of an event.
+**Beginner Friendly?**
+
+Yes. We train you in everything we want you to know during your intern quarter.
+
+**Skills you will use/learn**
+
+HTML, CSS, git, web design, JavaScript/TypeScript, d3, Python, Django, RESTful APIs, GraphQL, SQL, Docker
+
+### [LA Hacks](https://lahacks.com/live)
+
+[LA Hacks](https://lahacks.com/live) is one of Southern California’s biggest hackathons, bringing over 1000 students to Pauley Pavilion for 36 hours of innovation, creativity and execution. Such a large event is only possible through the efforts of a fantastic organizing team. This ranges from people working in Sponsorships, Finance, Hacker Experience, Dev and much more. This team grows to become your family for the entire year, going through ups and downs like you’ve never experienced before, all to climax into one hell of an event.
 
 **Skills you will use/learn:**
 

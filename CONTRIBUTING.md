@@ -8,13 +8,13 @@ For this repo (or use the GitHub web UI). Add the relevant changes in Markdown
 
 the table structure is:
 
-```md
+```markdown
 | organization | type(s) of org | website | application required? | short description |
 ```
 
 For example, 
 
-```md
+```markdown
 | organization | type(s) of org | website | application required? | short description |
 | --- | --- | --- | --- | --- |
 ...
@@ -25,13 +25,13 @@ For example,
 
 the table structure is:
 
-```md
+```markdown
 | organization | event title | date and time (PT) | location | link and/or RSVP |
 ```
 
 For example,
 
-```md
+```markdown
 | organization | event title | date and time (PT) | location | link and/or RSVP |
 | --- | --- | --- | --- | --- |
 ...
@@ -42,7 +42,7 @@ For example,
 
 Find the category you're interested in. Then, use this template:
 
-```md
+```markdown
 ### [your org](link to your org)
 
 <description>
@@ -62,7 +62,7 @@ Find the category you're interested in. Then, use this template:
 
 For example,
 
-```md
+```markdown
 ### [ACM Teach LA](https://teachla.uclaacm.com/)
 
 [ACM Teach LA](https://teachla.uclaacm.com/) is a K-12 outreach club dedicated to providing equitable access to CS education in the LA Area! We teach classes, run events, and write code so that everybody gets to enjoy CS. And importantly, we want to help you grow: as a student, a teacher, a programmer, a leader, and as a person!

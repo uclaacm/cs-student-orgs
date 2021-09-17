@@ -2,7 +2,7 @@
 
 ## tl;dr
 
-For this repo (or use the GitHub web UI). Add the relevant changes in Markdown
+For this repo (or use the GitHub web UI). Add the relevant changes with Markdown; you can do this at [this link](https://github.com/uclaacm/cs-student-orgs/edit/main/README.md).
 
 ### the list, tl;dr
 
@@ -11,6 +11,8 @@ the table structure is:
 ```markdown
 | organization | type(s) of org | website | application required? | short description |
 ```
+
+In particular, "type(s) of org" are: `academic`, `diversity and inclusion`, `hardware-focus`, `software-focus`, or `software dev team`.
 
 For example, 
 

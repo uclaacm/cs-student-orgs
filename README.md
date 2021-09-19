@@ -1,4 +1,6 @@
-# Tech Student Organizations | CS at UCLA
+# Tech Student Organizations | CS at UCLA (WIP)
+
+*This document is still in progress! It'll be ready on Tuesday, Sept 21st - we promise :)*
 
 This is a community-driven resource for all of the tech-related student organizations at UCLA! We wrote this document specifically for the [CS Welcome Day](https://www.cs.ucla.edu/cs-welcome-day/), though the goal of this document is to be continually updated throughout the year.
 

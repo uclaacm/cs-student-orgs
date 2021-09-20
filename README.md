@@ -28,6 +28,7 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | organization | type(s) of org | application required? | short description |
 | --- | --- | --- | --- |
 | [ACM at UCLA](https://uclaacm.com) | software-focus | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
+| [Creative Labs](https://www.creativelabsucla.com) | software-teams | yes; per-project | A community of UCLA creatives working on cool projects to discover even cooler passions |
 | [SWE @ UCLA](https://www.swe-ucla.com/) | diversity and inclusion | No | SWE-UCLA aims to promote diversity and professional development opportunities to the UCLA engineering community. |
 | [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | No | UCLA's Computer Science honor society |
 

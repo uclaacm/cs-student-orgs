@@ -19,7 +19,7 @@ Yes! OPS (Open Project Space) is a year-long project designed for complete begin
 
 Message our facebook page @ IEEE at UCLA!
 
-## Unmanned Aerial Systems at UCLA
+## [Unmanned Aerial Systems at UCLA](https://uasatucla.org/)
 
 UAS@UCLA designs and builds autonomous drones. Those include fixed-wing and multi-rotor drones used for competitions such as a mock search-and-rescue mission, or high endurance challenge, or more advanced topics and research areas.
 

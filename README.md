@@ -41,7 +41,7 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | [UCLA Campus Events Commission (CEC)](http://www.uclacec.com/) | software-team | yes | CEC is a student-run group that organizes free film, speaker, and concert events for students. |
 | [UCLA DevX](https://ucladevx.com/) | software-team | yes | DevX is a program dedicated to solving that very problem! Build out real-world projects to help tackle pressing problems frustrating the UCLA community, grow your technical skills by pairing up with experienced students, and build a network that lasts beyond graduation. |
 | [UCLA Student Media](https://apply.uclastudentmedia.com/applications/) | software-teams | yes | UCLA Student Media has multiple tech-related sections including Daily Bruin's Online, the Stack and Bruinwalk sections, as well as UCLA Radio Web. |
-| [Unmanned Aerial Systems at UCLA](https://uasatucla.org/) | hardware-focus | no | UAS@UCLA designs and builds autonomous drones. Those include fixed-wing and multi-rotor drones used for competitions such as a mock search-and-rescue mission, or high endurance challenge, or more advanced topics and research areas. |
+| [Unmanned Aerial Systems at UCLA](https://uasatucla.org/) | hardware-focus | no | UAS@UCLA designs and builds autonomous drones. |
 | [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | no; minimum GPA requirement | UCLA's Computer Science honor society. |
 | [WATT](https://www.facebook.com/groups/192924611072202/) | diversity-and-inclusion | no | We are a technical advocacy group for women and minorities in Electrical Engineering, operating as a branch of IEEE’s WIE (Women In Engineering). |
 

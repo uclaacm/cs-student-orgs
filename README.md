@@ -49,7 +49,16 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 
 | organization | event title | date and time (PT) | location | link and/or RSVP |
 | --- | --- | --- | --- | --- |
-| [ACM at UCLA](https://uclaacm.com)  | ACM Fall General Meeting | Tue 09/27, 6:00-7:30 PM | in-person/hybrid | [GM Page](https://uclaacm.com/fallgm) |
+| [ACM at UCLA](https://uclaacm.com)  | ACM Fall General Meeting | Mon 09/27, 6:00-7:30 PM | in-person/hybrid | [GM Page](https://uclaacm.com/fallgm) |
+| [Blueprint](https://lablueprint.org/) | Blueprint Fall General Meeting | TBD | TBD | TBD |
+| [Creative Labs](https://www.creativelabsucla.com/) | Creative Labs Fall General Meeting | TBD | TBD | TBD |
+| [DevX](https://ucladevx.com/) | DevX General Applications - Fall | TBD | TBD | TBD |
+| [exploretech.la](https://www.exploretech.la/) | TBD | TBD | TBD | TBD |
+| [IEEE](http://ieeebruins.com/) | IEEE Fall General Meeting | Wed 09/29, 6:00-8:00 PM | TBD | [GM Page](https://www.facebook.com/events/401492198004379/?ref=newsfeed) |
+| [NOVA](https://www.novaforgood.org/) | NOVA Fall Recruitment | TBD | TBD | TBD |
+| [SWE @ UCLA](https://www.swe-ucla.com/#/)  | SWE Fall General Meeting | TBD | TBD | TBD |
+| [Unmanned Aerial Systems at UCLA](https://uasatucla.org/) | TBD | TBD | TBD | TBD |
+| [WATT at UCLA](http://www.ieeewatt.ucla.edu/) | WATT Fall General Meeting | TBD | TBD | TBD |
 
 ## Resources and Thanks
 

@@ -30,6 +30,7 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | [ACM at UCLA](https://uclaacm.com) | software-focus | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
 | [Creative Labs](https://www.creativelabsucla.com) | software-teams | yes; per-project | A community of UCLA creatives working on cool projects to discover even cooler passions |
 | [Daily Bruin](https://apply.uclastudentmedia.com/applications/) | software-teams | yes | Daily Bruin's tech-oriented sections |
+| [LA Hacks](https://lahacks.com/live) | software-teams | yes | One of Southern California’s biggest hackathons, bringing over 1000 students to Pauley Pavilion for 36 hours of innovation, creativity and execution. |
 | [SWE @ UCLA](https://www.swe-ucla.com/) | diversity and inclusion | No | SWE-UCLA aims to promote diversity and professional development opportunities to the UCLA engineering community. |
 | [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | No | UCLA's Computer Science honor society |
 

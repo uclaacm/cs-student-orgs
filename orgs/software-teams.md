@@ -14,9 +14,9 @@ UI/UX Design, JavaScript, Web Development, Photoshop, Lightroom, Sketch, Teamwor
 Yes, for some projects and all workshops. A couple projects require specific skill sets that are project-dependent.
 
 
-## [Daily Bruin Online](https://apply.uclastudentmedia.com/applications/)
+## [Daily Bruin](https://apply.uclastudentmedia.com/applications/)
 
-[DB Online](https://apply.uclastudentmedia.com/applications/) explores the intersection between technology and society through various websites and projects. We build websites such as dailybruin.com, Bruinwalk, and The Stack.
+[Daily Bruin](https://apply.uclastudentmedia.com/applications/) has three separate sections dedicated to tech: Online, Bruinwalk, and The Stack. Online focuses on the implementation of tools used for online publication of the Bruin's articles; Bruinwalk maintains UCLA's premier professor review site; and the Stack explores the intersection between technology and society through data.
 
 **Beginner Friendly?**
 
@@ -70,7 +70,7 @@ Previous coding experience is necessary. Previous web development or mobile deve
 
 ## [UCLA DevX](https://ucladevx.com/)
 
-Have you ever felt that all you were learning at UCLA was theory, with little opportunities to build out practical applications? DevX is a brand new program dedicated to solving that very problem! Build out real-world projects to help tackle pressing problems frustrating the UCLA community, grow your technical skills by pairing up with experienced students, and build a network that lasts beyond graduation.
+Have you ever felt that all you were learning at UCLA was theory, with little opportunities to build out practical applications? DevX is a program dedicated to solving that very problem! Build out real-world projects to help tackle pressing problems frustrating the UCLA community, grow your technical skills by pairing up with experienced students, and build a network that lasts beyond graduation.
 
 **Skills you will use/learn:**
 

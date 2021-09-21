@@ -28,8 +28,22 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | organization | type(s) of org | application required? | short description |
 | --- | --- | --- | --- |
 | [ACM at UCLA](https://uclaacm.com) | software-focus | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
+| [AIRES](https://www.airesucla.org/) | software-focus | yes | At the AI Robotics Ethics Society,  we focus on educating tomorrow's AI leaders in ethical AI principles to ensure AI is created ethically and responsibly. |
+| [Creative Labs](https://www.creativelabsucla.com) | software-teams | yes; per-project | A community of UCLA creatives working on cool projects to discover even cooler passions. |
+| [Datares](https://datares.github.io/#/) | software-focus | yes | We provide a platform for aspiring data scientists and analysts to collaborate on impactful data projects. |
+| [exploretech.la](https://www.exploretech.la/) | education-and-outreach | yes | exploretech.la is a student organization that hosts an annual event aimed at encouraging & inspiring local high school students to pursue possibilities in computer science, engineering, and technology. |
+| [HKN](https://hkn.ee.ucla.edu/) | academic | no; minimum GPA requirement | HKN is the EE honors society. They provide tutoring for lower div CS classes. |
+| [IEEE](http://ieeebruins.com/) | hardware-focus | yes | We have devoted our energies towards bringing hands-on, practical experiences to engineering students throughout the campus, as well as creating opportunities for students to interact with industry professionals, develop their professional skills and more. |
+| [LA Hacks](https://lahacks.com/live) | software-teams | yes | One of Southern California’s biggest hackathons, bringing over 1000 students to Pauley Pavilion for 36 hours of innovation, creativity and execution. |
+| [Nova](https://www.novaforgood.org/) | software-teams | yes | a team of students at UCLA who aim to create high-impact technology that empowers nonprofits to better serve their communities. |
 | [SWE @ UCLA](https://www.swe-ucla.com/) | diversity and inclusion | No | SWE-UCLA aims to promote diversity and professional development opportunities to the UCLA engineering community. |
-| [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | No | UCLA's Computer Science honor society |
+| [TBP](https://tbp.seas.ucla.edu/) | academic | no; minimum GPA requirement | TBP is the Engineering honors society. They provide tutoring for engineering classes like Physics and Math. |
+| [UCLA Campus Events Commission (CEC)](http://www.uclacec.com/) | software-team | yes | CEC is a student-run group that organizes free film, speaker, and concert events for students. |
+| [UCLA DevX](https://ucladevx.com/) | software-team | yes | DevX is a program dedicated to solving that very problem! Build out real-world projects to help tackle pressing problems frustrating the UCLA community, grow your technical skills by pairing up with experienced students, and build a network that lasts beyond graduation. |
+| [UCLA Student Media](https://apply.uclastudentmedia.com/applications/) | software-teams | yes | UCLA Student Media has multiple tech-related sections including Daily Bruin's Online, the Stack and Bruinwalk sections, as well as UCLA Radio Web. |
+| [Unmanned Aerial Systems at UCLA](https://uasatucla.org/) | hardware-focus | no | UAS@UCLA designs and builds autonomous drones. |
+| [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | no; minimum GPA requirement | UCLA's Computer Science honor society. |
+| [WATT](https://www.facebook.com/groups/192924611072202/) | diversity-and-inclusion | no | We are a technical advocacy group for women and minorities in Electrical Engineering, operating as a branch of IEEE’s WIE (Women In Engineering). |
 
 ## upcoming fall events
 

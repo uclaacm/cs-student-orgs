@@ -14,9 +14,9 @@ UI/UX Design, JavaScript, Web Development, Photoshop, Lightroom, Sketch, Teamwor
 Yes, for some projects and all workshops. A couple projects require specific skill sets that are project-dependent.
 
 
-## [Daily Bruin Online](https://apply.uclastudentmedia.com/applications/)
+## [Daily Bruin](https://apply.uclastudentmedia.com/applications/)
 
-[DB Online](https://apply.uclastudentmedia.com/applications/) explores the intersection between technology and society through various websites and projects. We build websites such as dailybruin.com, Bruinwalk, and The Stack.
+[Daily Bruin](https://apply.uclastudentmedia.com/applications/) has three separate sections dedicated to tech: Online, Bruinwalk, and The Stack. Online focuses on the implementation of tools used for online publication of the Bruin's articles; Bruinwalk maintains UCLA's premier professor review site; and the Stack explores the intersection between technology and society through data.
 
 **Beginner Friendly?**
 

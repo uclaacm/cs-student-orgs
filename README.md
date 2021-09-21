@@ -31,6 +31,7 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | [AIRES](https://www.airesucla.org/) | software-focus | yes | At the AI Robotics Ethics Society,  we focus on educating tomorrow's AI leaders in ethical AI principles to ensure AI is created ethically and responsibly. |
 | [Creative Labs](https://www.creativelabsucla.com) | software-teams | yes; per-project | A community of UCLA creatives working on cool projects to discover even cooler passions. |
 | [Datares](https://datares.github.io/#/) | software-focus | yes | We provide a platform for aspiring data scientists and analysts to collaborate on impactful data projects. |
+| [IEEE](http://ieeebruins.com/) | hardware-focus | yes | We have devoted our energies towards bringing hands-on, practical experiences to engineering students throughout the campus, as well as creating opportunities for students to interact with industry professionals, develop their professional skills and more. |
 | [LA Hacks](https://lahacks.com/live) | software-teams | yes | One of Southern California’s biggest hackathons, bringing over 1000 students to Pauley Pavilion for 36 hours of innovation, creativity and execution. |
 | [Nova](https://www.novaforgood.org/) | software-teams | yes | a team of students at UCLA who aim to create high-impact technology that empowers nonprofits to better serve their communities. |
 | [UCLA Campus Events Commission (CEC)](http://www.uclacec.com/) | software-team | yes | CEC is a student-run group that organizes free film, speaker, and concert events for students. |

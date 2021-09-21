@@ -41,6 +41,7 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | [UCLA Student Media](https://apply.uclastudentmedia.com/applications/) | software-teams | yes | UCLA Student Media has multiple tech-related sections including Daily Bruin's Online, the Stack and Bruinwalk sections, as well as UCLA Radio Web. |
 | [Unmanned Aerial Systems at UCLA](https://uasatucla.org/) | hardware-focus | no | UAS@UCLA designs and builds autonomous drones. Those include fixed-wing and multi-rotor drones used for competitions such as a mock search-and-rescue mission, or high endurance challenge, or more advanced topics and research areas. |
 | [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | No | UCLA's Computer Science honor society. |
+| [WATT](https://www.facebook.com/groups/192924611072202/) | diversity-and-inclusion | no | We are a technical advocacy group for women and minorities in Electrical Engineering, operating as a branch of IEEE’s WIE (Women In Engineering). |
 
 ## upcoming fall events
 

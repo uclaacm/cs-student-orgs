@@ -28,14 +28,15 @@ See our [CONTRIBUTING.md](https://github.com/uclaacm/cs-student-orgs/blob/main/C
 | organization | type(s) of org | application required? | short description |
 | --- | --- | --- | --- |
 | [ACM at UCLA](https://uclaacm.com) | software-focus | no application required! | UCLA's largest tech community focused on making CS & tech accessible to everyone. |
-| [Creative Labs](https://www.creativelabsucla.com) | software-teams | yes; per-project | A community of UCLA creatives working on cool projects to discover even cooler passions |
+| [AIRES](https://www.airesucla.org/) | software-focus | yes | At the AI Robotics Ethics Society,  we focus on educating tomorrow's AI leaders in ethical AI principles to ensure AI is created ethically and responsibly. |
+| [Creative Labs](https://www.creativelabsucla.com) | software-teams | yes; per-project | A community of UCLA creatives working on cool projects to discover even cooler passions. |
 | [UCLA Student Media](https://apply.uclastudentmedia.com/applications/) | software-teams | yes | UCLA Student Media has multiple tech-related sections including Daily Bruin's Online, the Stack and Bruinwalk sections, as well as UCLA Radio Web. |
 | [LA Hacks](https://lahacks.com/live) | software-teams | yes | One of Southern California’s biggest hackathons, bringing over 1000 students to Pauley Pavilion for 36 hours of innovation, creativity and execution. |
 | [Nova](https://www.novaforgood.org/) | software-teams | yes | a team of students at UCLA who aim to create high-impact technology that empowers nonprofits to better serve their communities. |
 | [UCLA Campus Events Commission (CEC)](http://www.uclacec.com/) | software-team | yes | CEC is a student-run group that organizes free film, speaker, and concert events for students. |
 | [UCLA DevX](https://ucladevx.com/) | software-team | yes | DevX is a program dedicated to solving that very problem! Build out real-world projects to help tackle pressing problems frustrating the UCLA community, grow your technical skills by pairing up with experienced students, and build a network that lasts beyond graduation. |
 | [SWE @ UCLA](https://www.swe-ucla.com/) | diversity and inclusion | No | SWE-UCLA aims to promote diversity and professional development opportunities to the UCLA engineering community. |
-| [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | No | UCLA's Computer Science honor society |
+| [UPE at UCLA](https://upe.seas.ucla.edu/) | academic | No | UCLA's Computer Science honor society. |
 
 ## upcoming fall events
 
